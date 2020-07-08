@@ -11,7 +11,7 @@
 </pre>
 
 =Le contrat social intelligent.=
-Une offre initiale de droits par la [http://democracy.earth Fondation Democracy Earth].
+Une offre initiale de droits par la fondation [http://democracy.earth Fondation Democracy Earth].
 
 ==i. Résumé.==
 
